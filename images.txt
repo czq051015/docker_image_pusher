@@ -1,1 +1,1 @@
-nginx:1.24nginx:latestregistry.k8s.io/ingress-nginx/controller:v1.10.1
+docker.io/calico/node:v3.28.0
